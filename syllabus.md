@@ -200,7 +200,7 @@ streams and filters, clients and servers, split-apply-combine, and map-reduce.
 **Reading**
 
 * Design pattern
-* Software architecture
+* Garlan, David, and Mary Shaw. "An introduction to software architecture." (1994).
 * map-reduce
 
 ### Week 10
