@@ -2,8 +2,8 @@
 
 * Course numbers: **{{ ccn }}**
 * Truncated title: **REPRO COLLAB DATSCI**
-* Units: 4
-* Semester: Fall 2015
+* Units: **4**
+* Semester: **Fall 2015**
 
 ## Overview and Course Description
 
@@ -61,6 +61,12 @@ the students are mastering the basic computational skills necessary to complete
 their final group projects.  The group projects will be the primary focus for
 the last half of the semester.  There will be regular milestones that will
 involve code submissions, code review, and short presentations.
+
+Starting in week 8, the pattern of class will alternate weekly between
+producing and presenting and checking. There will be a week of science, code
+development, and occasional new material, followed by a week in which students
+make short presentations about what their team did on Tuesday, and then a
+cross-team code review and check for reproducibility on Thursday. 
 
 {{ rubric}}
 
@@ -154,8 +160,8 @@ sources for the project. Example topics: recidivism in Federal prisons,
 earthquake prediction, effect of packstock use on the Yosemite Toad population.
 (Note: Graduate students will be expected to come up with their own scientific
 questions for the final project. But they will also be required to understand
-the problem that the undergraduates are working on as they will be assigned
-as mentors to the undergraduates.)
+the problem that the undergraduates are assigned as it will serve as a
+case study for future lectures.)
 
 **Reading**
 
@@ -173,11 +179,9 @@ automated testing and continuous integration. Collaborative workflows with Git.
 
 ### Week 8
 
-Starting in week 8, the pattern of class will alternate weekly between
-producing and presenting and checking. There will be a week of science, code
-development, and occasional new material, followed by a week in which students
-make short presentations about what their team did on Tuesday, and then a
-cross-team code review and check for reproducibility on Thursday. 
+Discussion of bottlenecks. Refine scientific and statistical vision. Outline
+analysis strategy. Mini-lectures on statistical and computational tools needed
+to complete the project.
 
 **Reading**
 
@@ -192,9 +196,7 @@ streams and filters, clients and servers, split-apply-combine, and map-reduce.
 
 **Reading**
 
-* Design pattern
 * Garlan, David, and Mary Shaw. "An introduction to software architecture." (1994).
-* map-reduce
 
 ### Week 10
 
@@ -207,7 +209,12 @@ to complete the project.
 Parallel and cloud computing.  Brief overview of computer and network
 architectures.
 
-Tuesday--present progress. Thursday--code review and reproducibility review.
+Tuesday--present progress.
+Thursday--code review and reproducibility review.
+
+**Reading**
+
+* Lecture notes
 
 ### Week 12
 
@@ -216,11 +223,13 @@ The good, the bad, and the ugly of data visualization.
 
 ### Week 13
 
-Tuesday--present progress. Thursday--code review and reproducibility review.
+Tuesday--present progress.
+Thursday--code review and reproducibility review.
 
 ### Week 14
 
-Tuesday--Lightning talks in class. Each group makes a 5-minute oral presentation. Thursday--feedback on the talks.
+Tuesday--Lightning talks in class.
+Thursday--feedback on the talks.
 
 ### Week 15
 
