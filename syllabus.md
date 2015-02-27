@@ -1,7 +1,9 @@
-﻿# Reproducible and Collaborative Statistical Data Science
+# Reproducible and Collaborative Statistical Data Science
 
-* Course numbers: **Stat 159** and **Stat 259**
+* Course numbers: **{{ ccn }}**
 * Truncated title: **REPRO COLLAB DATSCI**
+* Units: 4
+* Semester: Fall 2015
 
 ## Overview and Course Description
 
@@ -43,7 +45,7 @@ well as collaborating with your team outside class, so that a substantial
 amount of class time can be devoted to group work on the project, including
 frequent in-class presentations by students, code reviews, brainstorming, etc.
 Students are expected to work at least 8 hours per week outside class, making
-this a 4-unit course (12 hours of effort per week).
+this a 4-unit course (13 hours of effort per week).
 
 
 ### Prerequisites
@@ -60,16 +62,7 @@ their final group projects.  The group projects will be the primary focus for
 the last half of the semester.  There will be regular milestones that will
 involve code submissions, code review, and short presentations.
 
-**Stat 159**: The scientific question and primary data will be provided to the
-students taking the undergraduate version of this course.  The final deliverable
-for the group project will involve a poster session and project report.
-
-**Stat 259**: Graduate students will need to determine the scientific question
-and identify the data sources for their group projects.  The final deliverable
-for the group project will involve an oral presentation and project report.
-In addition to the working on their own group projects, each graduate student
-will also be assigned to serve as a mentor for one of the undergraduate project
-groups. This will involve working with the groups during weekly labs.
+{{ rubric}}
 
 All work will be done using the version control system Git. The Git repository
 is not merely a mechanism for submitting work, but the way you will work with
@@ -211,13 +204,15 @@ to complete the project.
 
 ### Week 11
 
-Parallel and cloud computing.
+Parallel and cloud computing.  Brief overview of computer and network
+architectures.
 
 Tuesday--present progress. Thursday--code review and reproducibility review.
 
 ### Week 12
 
-Tips on giving good talks and posters; examples of bad talks and posters.
+How to give good talks and posters; examples of bad talks and posters.
+The good, the bad, and the ugly of data visualization.
 
 ### Week 13
 

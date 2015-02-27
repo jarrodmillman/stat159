@@ -1,0 +1,18 @@
+syllabus.md|jinja|pandoc|-pdf|-stat159:
+    - jinja: { vars: {'ccn': 'Stat 159',
+                      'rubric': "The scientific question and primary data will be provided to the
+students taking the undergraduate version of this course.  The final deliverable
+for the group project will involve a poster session and project report."} }
+    - pandoc: { ext: .pdf}
+    - output-name: "stat159-syllabus.pdf"
+
+syllabus.md|jinja|pandoc|-pdf|-stat259:
+    - jinja: { vars: {'ccn': 'Stat 259',
+                      'rubric': "Students will need to determine the scientific question
+and identify the data sources for their group projects.  The final deliverable
+for the group project will involve an oral presentation and project report.
+In addition to the working on their own group projects, each graduate student
+will also be assigned to serve as a mentor for one of the undergraduate project
+groups. This will involve working with the groups during weekly labs." } }
+    - pandoc: { ext: .pdf}
+    - output-name: "stat259-syllabus.pdf"
