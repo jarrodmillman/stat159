@@ -55,8 +55,8 @@ video lectures and working through online tutorial materials—outside class—a
 well as collaborating with your team outside class, so that a substantial
 amount of class time can be devoted to group work on the project, including
 frequent in-class presentations by students, code reviews, brainstorming, etc.
-Students are expected to work at least 8 hours per week outside class, making
-this a 4-unit course (13 hours of effort per week).
+Students are expected to work at least eight hours per week outside class, making
+this a 4-unit course (thirteen hours of effort per week).
 
 
 ### Prerequisites
