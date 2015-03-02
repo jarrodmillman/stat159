@@ -5,7 +5,18 @@
 * Units: **4**
 * Semester: **Fall 2015**
 
-## Overview and Course Description
+## Short Course Description
+
+A project-based introduction to statistical data analysis.
+Through case studies, computer laboratories, and a term project,
+students will learn practical techniques and tools
+for producing statistically sound and appropriate, reproducible, and verifiable 
+computational answers to scientific questions. 
+Course emphasizes version control, testing, process automation,
+code review, and collaborative programming.
+Software tools may include Bash, Git, Python, and LaTeX.
+
+## Overview and Longer Course Description
 
 This is a project-based course that introduces you to reproducible and
 collaborative statistical research, applied to a real scientific question.  You
@@ -37,7 +48,7 @@ even further.
 
 ### Format
 
-3 hours of class per week in two 90-minute sessions, plus two hours of labwork.
+Three hours of class per week in two 90-minute sessions, plus two hours of labwork.
 Class sessions are divided between lecture and collaborative work. To a large
 extent, the class is “flipped,” meaning that you are responsible for watching
 video lectures and working through online tutorial materials—outside class—as
@@ -51,6 +62,11 @@ this a 4-unit course (13 hours of effort per week).
 ### Prerequisites
 
 Statistics 133, Statistics 134, and Statistics 135 (or equivalent).
+{{ prereq }}
+
+### Restrictions
+
+{{ restrict }}
 
 ### Grading
 

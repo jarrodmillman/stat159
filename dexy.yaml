@@ -1,5 +1,7 @@
 syllabus.md|jinja|pandoc|-pdf|-stat159:
     - jinja: { vars: {'ccn': 'Stat 159',
+                      'prereq': '',
+                      'restrict': "None",
                       'rubric': "The scientific question and primary data will be provided to the
 students taking the undergraduate version of this course.  The final deliverable
 for the group project will involve a poster session and project report."} }
@@ -8,6 +10,9 @@ for the group project will involve a poster session and project report."} }
 
 syllabus.md|jinja|pandoc|-pdf|-stat259:
     - jinja: { vars: {'ccn': 'Stat 259',
+                      'prereq': 'Graduate  standing.',
+                      'restrict': "Students  will  receive  no  credit  for  
+Statistics 259 after  taking  Statistics 159.",
                       'rubric': "Students will need to determine the scientific question
 and identify the data sources for their group projects.  The final deliverable
 for the group project will involve an oral presentation and project report.
